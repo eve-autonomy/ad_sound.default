@@ -9,7 +9,7 @@ Since this repository is a template, it contains only the `default` directory.
 The list of names of sound files managed in the use-defined directory should be aligned with those in the `default` directory.
 
 ## List of supported files
-See the [parameter description for ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager#parameter-discription).
+See the [parameter description for ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager#parameter-description).
 
 ## Extensibility of this package
 This package is a template as a parameter configuration.

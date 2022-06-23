@@ -6,7 +6,7 @@ This is a package for managing parameters to make [ad_sound_manager](https://git
 Users can place and use user-defined directories in `wavs` directory.
 Since this repository is a template, it contains only the `default` directory.
 
-The list of names of sound files managed in the use-defined directory should be aligned with those in the `default` directory.
+Sound file names in config have to be aligned with those file names in the `default` directory.
 
 ## List of supported files
 See the [parameter description for ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager#parameter-description).

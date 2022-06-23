@@ -1,7 +1,7 @@
 # autonomous_driving_sound
 
 ## Overview
-This is a package for managing parameters to make [ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager) easier to use.
+This is a default package of sound files for [ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager/).
 
 Users can place your own sound files in a user-defined directories under sub-directory `wavs`.
 Since this repository is a template, it contains only the `default` directory.

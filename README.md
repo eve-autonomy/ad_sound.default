@@ -17,4 +17,4 @@ This package is a template as a parameter configuration.
 If you want to change sound files in this package and use it, follow the steps below.
 1. Fork this repository to create a new one.
 1. Create a new directory in the [wavs](#/wavs) directory and insert the new audio file in it.
-1. Change the value of `lang`, which is the [launch arguments of ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager#launch-arguments), to the new directory name.
+1. Change the value `lang`, which works as a new directory name in [launch arguments of ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager#launch-arguments).

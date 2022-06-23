@@ -1,4 +1,4 @@
-# autonomous_driving_sound
+# Set of sound files for autonomous driving notification
 
 ## Overview
 This is a default package of sound files for [ad_sound_manager](https://github.com/eve-autonomy/ad_sound_manager/).
